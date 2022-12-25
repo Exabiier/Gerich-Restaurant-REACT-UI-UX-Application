@@ -1,4 +1,9 @@
 import images from './images';
+import award01 from '../assets/award01.png';
+import award02 from '../assets/award02.png';
+import award03 from '../assets/award03.png';
+import award05 from '../assets/award05.png';
+
 
 const wines = [
   {

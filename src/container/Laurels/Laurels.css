@@ -1,0 +1,19 @@
+.app__laurels_awards {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+.app__laurels_award_and_img{
+    display: flex;
+    flex-direction: row;
+    }
+
+@media screen and (max-width: 1400px){
+.app__laurels_award_and_img{
+display: flex;
+flex-direction: column;
+}
+}
