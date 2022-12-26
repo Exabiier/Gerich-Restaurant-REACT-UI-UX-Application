@@ -46,7 +46,7 @@ function Laurels () {
   ];
   
   return(
-  <div className="app__bg app___wrapper section__padding" id="awards">
+  <div className="app__bg app___wrapper section__padding" id="Awards">
     <div className="app__laurels_award_and_img"> 
       <div className="app__wrapper_info">
         <SubHeading title="Awards & recognition" />
